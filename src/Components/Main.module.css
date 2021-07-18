@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  background-color: #15202b;
+  color: white;
+  height: 100vh;
+}
+
+.main {
+  padding: 2em;
+}
+
+form {
+  text-align: center;
+}
+
+.countryData {
+  text-align: center;
+  /* margin: 0 auto; */
+}
+
+.countryData {
+  padding: 2rem 0;
+}
+
+.countryData div {
+  padding: 0.5rem 0;
+  font-size: 1.2rem;
+}
+.data {
+  font-style: bold;
+}
+
+.input {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 0.5px solid #000;
+}
